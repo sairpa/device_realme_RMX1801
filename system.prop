@@ -104,7 +104,8 @@ ro.sf.blurs_are_expensive=1
 
 #PixelPlusUI Props
 ro.ppui.device_name=Realme 2 Pro
-ro.ppui.version=3.9
-ro.ppui.version_code=Eternal
+ro.ppui.version=3.10
+ro.ppui.version_code=Azrael
 ro.ppui.is_official=true
 ro.ppui.maintainer_name=allworkdone
+
