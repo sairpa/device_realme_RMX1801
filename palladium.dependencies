@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "baibhab34/kernel_rebase_RMX1801",
+    "target_path": "kernel/realme/sdm660",
+    "remote": "github",
+    "branch": "eas"
+  },
+  {
+    "repository": "baibhab34/vendor_realme-1",
+    "target_path": "vendor/realme",
+    "remote": "github",
+    "branch": "r11"
+  },
+  {
+    "repository": "techyminati/android_packages_apps_RealmeDirac",
+    "target_path": "packages/apps/RealmeDirac",
+    "remote": "github",
+    "branch": "master"
+  }
+]
